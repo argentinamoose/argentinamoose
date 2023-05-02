@@ -117,7 +117,7 @@
     <a href="https://www.linkedin.com/in/luke-higginbotham-43b115191/" target="_blank">
         <img  style="margin:0 10px 10px 0;" src="https://www.svgrepo.com/show/475661/linkedin-color.svg" alt="LinkedIn" width="40px"/>
     </a>
-    <a href="mailto:lukeahigginbotham@gmail.com" target="_blank">
+    <a href="mailto:lukeahigginbotham@gmail.com" target="_blank" rel="noopener noreferrer">
         <img style="margin:0 10px 10px 0;" src="https://www.svgrepo.com/show/395714/email-message-mail-envelope.svg" alt="email" width="40px"/>
     </a>
 </div>
